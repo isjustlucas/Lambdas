@@ -48,7 +48,6 @@ public class App {
         } catch (IOException e) {
             System.out.println("Error: " + e.getMessage());
         }
-        System.out.println("End of program.");
         sc.close();
     }
 }
